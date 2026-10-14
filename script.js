@@ -53,7 +53,7 @@ function keyDown(event) {
 
   // Holding a key down sends keydown again and again. Only react to the first one.
   if (event.repeat === false) {
-    console.log("Key down:", event.key);
+    console.log("You pressed: ", event.key);
 
     // Example: replace this with your own instrument.
     if (event.key === exampleKey) {
