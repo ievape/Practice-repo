@@ -21,7 +21,7 @@
 // ---------- Settings ----------
 // Settings variables should contain all of the "fixed" parts of your programs
 // For example: which key does what, which notes you can play, the tempo.
-const exampleKey = "a"; // the key that plays the example note
+const exampleKey = "s"; // the key that plays the example note
 const exampleNote = "C4"; // the note it plays
 
 // ---------- State ----------
